@@ -1,0 +1,13 @@
+.not_found_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+   img{
+    width: 100%;
+    max-width: 550px;
+    height: auto;
+    object-fit: cover;
+   }   
+}

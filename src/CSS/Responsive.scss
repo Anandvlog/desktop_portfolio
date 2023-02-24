@@ -1,0 +1,27 @@
+@media (max-width: 1366px){
+    
+}
+@media (max-width: 1200px){
+    
+}
+@media (max-width: 1024px){
+    
+}
+@media (max-width: 991px){
+    .no-mobile-menu{
+      display: none;
+    }
+    .mobile-menu{
+       display: block !important;
+    }
+    .order{
+      order: 2;
+    }
+    .custom-menu .navItem{
+      padding: 12px 0px;
+    }
+    .user{
+      margin-bottom: 30px;
+    }
+}
+
